@@ -1,0 +1,14 @@
+{coord: {lon: 44, lat: 33}, weather: [{id: 800, main: "Clear", description: "clear sky", icon: "01d"}],…}
+base: "stations"
+clouds: {all: 0}
+cod: 200
+coord: {lon: 44, lat: 33}
+dt: 1626693058
+id: 99237
+main: {temp: 321.1, feels_like: 316.2, temp_min: 321.1, temp_max: 321.1, pressure: 999, humidity: 6,…}
+name: "Iraq"
+sys: {type: 1, id: 7597, country: "IQ", sunrise: 1626660510, sunset: 1626711102}
+timezone: 10800
+visibility: 10000
+weather: [{id: 800, main: "Clear", description: "clear sky", icon: "01d"}]
+wind: {speed: 9.96, deg: 328, gust: 11.1}
